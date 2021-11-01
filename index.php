@@ -27,7 +27,7 @@ if(isset($_POST['username']) && isset($_POST['password']) && ($_POST['username']
     if ($bind) {
 			@ldap_close($ldap);
 			$_SESSION['username'] = $username;
-			header('Location: https://employees.molloy.edu/vpdei/search.php'); 
+			header('Location: https://blogs.molloy.edu/vpdei/search.php'); 
       // @ldap_close($ldap);
     } else {
 			echo "error";
