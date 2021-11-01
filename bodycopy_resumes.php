@@ -70,8 +70,9 @@
                             -->
 
                             <div class="row">
+
 							<!-- BW (POST AT 5pm am on November 3rd) -->
-                                <div class="col-sm-12" style="margin: 20px auto;background-color: #fff; border: 1px solid #ccc; border-radius: 2px/4px; box-shadow: 0 0 5px #ccc;height: 200px; padding: 12px 10px;position: relative;">
+                                <!-- <div class="col-sm-12" style="margin: 20px auto;background-color: #fff; border: 1px solid #ccc; border-radius: 2px/4px; box-shadow: 0 0 5px #ccc;height: 200px; padding: 12px 10px;position: relative;">
                                     <div class="content">
                                         <p style='font-weight: bold;'>Candidate #1: Thursday, November 4th, 2021 (10:30 - 11:15am) & (4:00 - 4:45pm)</p>
                                         <hr style="border-color: #ccc;margin-top: 5px;margin-bottom: 5px;">
@@ -82,12 +83,13 @@
                                         <hr style="border-color: #ccc;margin-top: 5px;margin-bottom: 5px;">
                                         <div class="description">
                                             <a href="vpdei/documents/resumes/BW-CV.pdf" target="_blank">View Resume</a>
-                                            
+                                            <a style="float: right;" href="https://www.surveymonkey.com/r/MolloyProvostCandidateFeedbackSH" target="_blank">Submit Feedback</a> 
 
                                         </div>
                                     </div>
 
-                                </div>
+                                </div> -->
+
 							<!-- DJ (POST AT 5pm on November 7th) -->
                                 <!-- <div class="col-sm-12" style="margin: 20px auto;background-color: #fff; border: 1px solid #ccc; border-radius: 2px/4px; box-shadow: 0 0 5px #ccc;height: 200px; padding: 12px 10px;position: relative;">
                                     <div class="content">
@@ -105,6 +107,7 @@
                                     </div>
 
                                 </div> -->
+
 							<!-- KS (POST AT 5pm am on November 8th)  -->
                                 <!-- <div class="col-sm-12" style="margin: 20px auto;background-color: #fff; border: 1px solid #ccc; border-radius: 2px/4px; box-shadow: 0 0 5px #ccc;height: 200px; padding: 12px 10px;position: relative;">
                                     <div class="content">
