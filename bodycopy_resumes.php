@@ -91,7 +91,7 @@
                                 </div> -->
 
 							<!-- DJ (POST AT 5pm on November 7th) -->
-                                <div class="col-sm-12" style="margin: 20px auto;background-color: #fff; border: 1px solid #ccc; border-radius: 2px/4px; box-shadow: 0 0 5px #ccc;height: 200px; padding: 12px 10px;position: relative;">
+                                <!-- <div class="col-sm-12" style="margin: 20px auto;background-color: #fff; border: 1px solid #ccc; border-radius: 2px/4px; box-shadow: 0 0 5px #ccc;height: 200px; padding: 12px 10px;position: relative;">
                                     <div class="content">
                                         <p style='font-weight: bold;'>Candidate #2: Monday, November 8th, 2021 (10:30 - 11:15am) & (4:00 - 4:45pm)</p>
                                         <hr style="border-color: #ccc;margin-top: 5px;margin-bottom: 5px;">
@@ -106,10 +106,10 @@
                                         </div>
                                     </div>
 
-                                </div>
+                                </div> -->
 
 							<!-- KS (POST AT 5pm am on November 8th)  -->
-                                <!-- <div class="col-sm-12" style="margin: 20px auto;background-color: #fff; border: 1px solid #ccc; border-radius: 2px/4px; box-shadow: 0 0 5px #ccc;height: 200px; padding: 12px 10px;position: relative;">
+                                <div class="col-sm-12" style="margin: 20px auto;background-color: #fff; border: 1px solid #ccc; border-radius: 2px/4px; box-shadow: 0 0 5px #ccc;height: 200px; padding: 12px 10px;position: relative;">
                                     <div class="content">
                                         <p style='font-weight: bold;'>Candidate #3: Tuesday, November 9th, 2021 (10:30 - 11:15am) & (1:00 - 1:45pm)</p>
                                         <hr style="border-color: #ccc;margin-top: 5px;margin-bottom: 5px;">
@@ -123,7 +123,7 @@
                                         </div>
                                     </div>
 
-                                </div> -->
+                                </div>
 
                                 
                             </div>
