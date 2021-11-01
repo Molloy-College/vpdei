@@ -1,0 +1,18 @@
+*** SD ***
+<p style="font-size: 12px;">Vice President for Finance and Chief Operating Officer, University of Bridgeport, Bridgeport, CT<br/></p>-->
+
+*** BC ***
+<p style="font-size: 12px;">Assistant Vice President for Finance, Molloy College, Rockville Centre, NY<br/></p>-->
+
+<!-- ****************************** -->
+
+<!-- ****** Susan D. Williams ***** -->
+<!--<a href="vpdei/documents/resumes/VPDEI_Candidate_SW.pdf" target="_blank">View Resume</a>-->
+<!--<a style="float: right;" href="https://www.surveymonkey.com/r/MolloyVPFTCandidateFeedbackSW" target="_blank">Submit Feedback</a>-->
+
+<!-- ****************************** -->
+<!-- ***** Barbara A. Calissi ***** -->
+<!--<a href="vpdei/documents/resumes/VPDEI_Candidate_BC.pdf" target="_blank">View Resume</a>-->
+<!--<a style="float: right;" href="https://www.surveymonkey.com/r/MolloyVPFTCandidateFeedbackBC" target="_blank">Submit Feedback</a>-->
+
+<!--<p style="font-size: 12px;">Assistant Vice President for Finance, Molloy College, Rockville Centre, NY<br/></p>-->
