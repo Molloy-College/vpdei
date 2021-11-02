@@ -12,8 +12,9 @@
                     <div class="stdpage-v8-old hidebodycopy-notset body-copy-section">
                         <div class="row">
                             <p>
-                            On behalf of the VP DEI Search Committee, we are pleased to announce that after an extensive national search, the field of candidates for the Vice President for Diversity, Equity, and Inclusion has selected three finalists.  Each of the finalists will be coming to the Rockville Centre campus over the next two weeks to meet with various groups that comprise the Molloy College community. Below is the CV for Candidate #2:</p>
-
+                            On behalf of the VP DEI Search Committee, we are pleased to announce that after an extensive national search, the field of candidates for the Vice President for Diversity, Equity, and Inclusion has selected three finalists.  Each of the finalists will be coming to the Rockville Centre campus over the next two weeks to meet with various groups that comprise the Molloy College community.</p> 
+                            
+                            <p>Below is the CV for Candidate #2:</p>
 
                             
 							<!-- //////////////////////////////////////// -->
@@ -41,7 +42,7 @@
                                         <hr style="border-color: #ccc;margin-top: 5px;margin-bottom: 5px;">
                                         <div class="description">
                                             <a href="vpdei/documents/resumes/DJ-CV.pdf" target="_blank">View Resume</a>
-                                            <!-- <a style="float: right;" href="https://www.surveymonkey.com/r/MolloyProvostCandidateFeedbackSH" target="_blank">Submit Feedback</a>  -->
+                                            <!-- <a style="float: right;" href="https://baseline.campuslabs.com/mc/vpdei2" target="_blank">Submit Feedback</a>  -->
                                         </div>
                                     </div>
                                 </div>
