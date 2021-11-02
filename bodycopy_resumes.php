@@ -14,8 +14,6 @@
                             <p>
                             On behalf of the VP DEI Search Committee, we are pleased to announce that after an extensive national search, the field of candidates for the Vice President for Diversity, Equity, and Inclusion has selected three finalists.  Each of the finalists will be coming to the Rockville Centre campus over the next two weeks to meet with various groups that comprise the Molloy College community. Below is the CV for Candidate #3:</p>
 
-                            <br>
-                            <br>
                             
 							<!-- //////////////////////////////////////// -->
 
