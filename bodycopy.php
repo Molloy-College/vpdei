@@ -3,7 +3,7 @@
 	<div class="row">
 		<div class="col-md-12">
 			<h1 class="section-title">
-				<span>Vice President for Academic Affairs - Chief Financial Officer</span>
+				<span>Vice President for Diversity, Equity, and Inclusion</span>
 				<div class="section_shadow_block"></div>
 			</h1>
 			<div class="section-body">

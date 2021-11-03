@@ -4,7 +4,7 @@
 		<div class="container">
 			 <div class="row">
 				<div class="page-phrase-title col-lg-12">					
-						<h1>Vice President for Academic Affairs</h1>
+						<h1>Vice President for Diversity, Equity, and Inclusion</h1>
 					<span class="subheader"></span>
 				</div>					
 			</div>
