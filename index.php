@@ -48,10 +48,10 @@ if(isset($_POST['username']) && isset($_POST['password']) && ($_POST['username']
     <meta http-equiv="X-UA-Compatible" content="IE=10,IE=edge,chrome=1">
 	<meta name="viewport" content="width=device-width, user-scalable=0, initial-scale=1.0">
     
-	<meta property="og:title" content="Vice President for Academic Affairs - Search" />	
-	<meta property="og:description" content="Employee-only page for information regarding the new Vice President for Academic Affairs."/>
+	<meta property="og:title" content="Vice President for Diversity, Equity, and Inclusion - Search" />	
+	<meta property="og:description" content="Employee-only page for information regarding the new Vice President for Diversity, Equity, and Inclusion."/>
 	
-    <meta name="description" content="Employee-only page for information regarding the new Vice President for Academic Affairs." />
+    <meta name="description" content="Employee-only page for information regarding the new Vice President for Diversity, Equity, and Inclusion." />
     <meta name="keywords" content="" />
 
 	<title>Molloy College: VPDEI Search</title>    	
